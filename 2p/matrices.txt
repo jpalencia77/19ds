@@ -1,0 +1,3 @@
+AeR^nxm // Matriz
+aeR^m // vector
+5,3 e r^1 // escalar
